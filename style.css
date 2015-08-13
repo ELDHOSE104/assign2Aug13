@@ -1,0 +1,41 @@
+.divOne
+{
+background-color: chocolate;
+    height: 60px;
+    width: 60px;
+    float: none;
+    text-align: center;
+}
+.divTwo
+{
+    background-color: chocolate;
+    height: 60px;
+    width: 60px;
+    float:right;
+    text-align: center;
+
+}
+.divThree
+{
+    background-color: chocolate;
+    height: 60px;
+    width: 60px;
+    float:none;
+    text-align: center;
+
+}
+.number
+{
+    padding-left: 5px;
+    padding-top: 20px;
+}
+div.formClass
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+.batman {
+    width: 100px;
+    height: 100px;
+    background-color: #333;
+}
